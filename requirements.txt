@@ -1,0 +1,10 @@
+asgiref
+django
+django-htmx
+pillow
+pip
+psycopg2
+sqlparse
+tzdata
+jmespath
+stripe
